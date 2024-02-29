@@ -1,0 +1,28 @@
+.caixa-mãe{
+    padding: 20px;
+    width: 500px;
+    height: 500px;
+    border-radius: 5px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU2xzvZXe5_6hnb8l78qStVPLO8jB8lH4oUw&usqp=CAU");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+#caixa-1{
+    width: 150px;
+    height: 150px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    background-color: black;
+
+}
+
+#caixa-2{
+    width: 150px;
+    height: 150px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    background-color: white;
+    
+}
