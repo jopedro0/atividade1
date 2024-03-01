@@ -2,7 +2,7 @@
     padding: 20px;
     width: 500px;
     height: 500px;
-    border-radius: 5px;
+    border-radius: 15px;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU2xzvZXe5_6hnb8l78qStVPLO8jB8lH4oUw&usqp=CAU");
     background-size: cover;
     display: flex;
@@ -12,9 +12,10 @@
 #caixa-1{
     width: 150px;
     height: 150px;
-    border: 1px solid rgb(0, 0, 0);
+    border: 1px solid rgb(255, 255, 255);
     padding: 10px;
     background-color: black;
+    margin: 10px;
 
 }
 
@@ -24,5 +25,6 @@
     border: 1px solid rgb(0, 0, 0);
     padding: 10px;
     background-color: white;
+    margin: 10px;
     
 }

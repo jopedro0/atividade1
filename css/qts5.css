@@ -1,0 +1,17 @@
+li {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(211, 211, 211);
+    border-radius: 5px;
+    background-color: #f2f2f2;
+}
+
+li:first-child {
+    background-color: #af4841;
+    color: #34a014;
+}
+
+li:last-child {
+    background-color: #03b7e4;
+    border: none;
+}
