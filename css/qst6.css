@@ -1,0 +1,18 @@
+table{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+th, td{
+    padding: 10px;
+    margin: 10px;
+}
+
+tr:first-child{
+    color: brown;
+    background-color: rgb(109, 172, 172);
+}
+
+td:last-child{
+    background-color: rgb(221, 191, 191);
+}
